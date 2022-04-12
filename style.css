@@ -1,0 +1,28 @@
+body{
+background-color: #7fffd4;
+text-align: center;
+}
+
+.buttonfolder{
+margin: 25px;
+padding: 20px;
+width:200px;
+background-color: blue;
+color: azure;
+border-radius: 20px;
+font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+font-size: 25px;
+font-variant: small-caps;
+}
+
+canvas{
+background-color: azure;
+}
+
+a{
+color:azure;
+}
